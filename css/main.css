@@ -1,0 +1,51 @@
+body{
+  background-image: url("https://cdn.shopify.com/s/files/1/1379/1905/collections/DSC08233_1d5f5e69-09e9-4414-878d-763040d9c502_800x800.progressive.jpg?v=1505177200");
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+img{
+  width: 300px;
+}
+
+ul li {
+  font-size: 50px;
+  text-align: right;
+  color: white;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border-color: orange;
+  border-radius: 50px;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  padding: 5px;
+  width: 150px;
+}
+
+.gc-left {
+  float: left;
+  width: 20%;
+}
+
+.gc-center {
+  color: white;
+  width: 50%;
+  padding: 0 50px;
+  float:left;
+}
+
+.gc-right {
+  float: right;
+  width: 20%;
+}
+
+.clear {
+  clear: both;
+}
