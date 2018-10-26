@@ -1,0 +1,26 @@
+body{
+  background-image: url("https://cdn.shopify.com/s/files/1/1379/1905/collections/DSC08233_1d5f5e69-09e9-4414-878d-763040d9c502_800x800.progressive.jpg?v=1505177200");
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+p{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border-color: orange;
+  border-radius: 50px;
+  color: white;
+  padding: 15px 32px;
+  font-size: 20px;
+  padding: 5px;
+  width: 150px;
+}
